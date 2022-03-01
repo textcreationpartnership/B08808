@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compendium, containing exact rules to be observed in the composing of two or more parts, either for vocal or instrumental musick</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08808</idno>
+            <idno type="STC">Wing C5609A</idno>
+            <idno type="STC">ESTC R224399</idno>
+            <idno type="EEBO-CITATION">64551125</idno>
+            <idno type="OCLC">ocm 64551125</idno>
+            <idno type="VID">184486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184486)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compendium, containing exact rules to be observed in the composing of two or more parts, either for vocal or instrumental musick</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gilbert at the Half-Moon in St. Paul's-Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Composition (Music) --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184486:1"/>
+            <head>A COMPENDIUM, <hi>CONTAINING</hi> Exact RULES to be Obſerved in the COMPOSING of Two or more PARTS, Either for VOCAL or INSTRUMENTAL <hi>M<g ref="char:V">Ʋ</g>SICK.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>
+                  <g ref="char:V">Ʋ</g>SICK</hi> is an Art of Expreſſing perfect Harmony, either by Voice or Inſtrument; which Harmony ariſeth from well-taken <hi>Concords</hi> and <hi>Diſcords.</hi>
+            </p>
+            <p>In the Scale there are Seven Notes, <hi>G, A, B, C, D, E, F,</hi> for their Eighths are the ſame in Nature of Sound.</p>
+            <p>Of theſe Seven, ſome are called <hi>Concords,</hi> and others <hi>Diſcords.</hi> The <hi>Concords</hi> are Four in Number, <hi>viz.</hi> a Uniſon, a Third, a Fifth, and a Sixth.</p>
+            <p>The <hi>Diſcords</hi> are Three in Number, <hi>viz.</hi> a Second, a Fourth, and a Seventh.</p>
+            <p>The Third, Fifth, and Sixth are either Perfect, or Impefect. The Imperfect is leſs than the Perfect by half a Note: As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>
+               <hi>Unison. Imperfect 3d. Perfect 3d. Imperfect 5th. Perf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct 5th. Imperfect 6th. Perfect 6th. Eighth. Second. Fourth. Seventh.</hi>
+            </p>
+            <p>In Compoſing of Two or more Parts, the Parts do either ſtand ſtill. As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>Or the one doth ſtand ſtill, and the other move: As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>Or they both aſcend together: As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>Or both deſcend together: As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>Or one doth aſcend and the other deſcend. As,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <div type="part">
+               <head>
+                  <hi>The R<g ref="char:V">Ʋ</g>LES following will direct how the</hi> Concords <hi>are to be taken, or applyed every one of theſe wayes:</hi>
+               </head>
+               <div n="1" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> I.</head>
+                  <p>You may have as many Thirds, Fifths, Sixths, or Eighths as you pleaſe ſtanding.</p>
+               </div>
+               <div n="2" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> II.</head>
+                  <p>When one Part ſtandeth ſtill, and the other moves, the moving Part may move to any Concords: As,</p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </div>
+               <div n="3" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> III.</head>
+                  <p>When Two or more Parts aſcend or deſcend together, they aſcend or deſcend either gradually, or by Intervals.</p>
+                  <p>If they aſcend or deſcend gradually, they do move by Thirds, you may have as many Thirds as you pleaſe: As,</p>
+                  <p>Or aſcend or deſcend by Sixths. As.</p>
+                  <p>Take no more than two or three Sixths; Or they move by a Fifth or a Sixth: As,</p>
+                  <p>You may have as many Notes as you p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaſe.</p>
+                  <p>If two Parts aſcend by Intervals, then you may move from</p>
+                  <p>A 1 to a 3 or 6</p>
+                  <p>A 3 to a 3 or 6</p>
+                  <p>A 5 to a 3 or 6</p>
+                  <p>A 6 to a 3 or 6</p>
+               </div>
+               <div n="4" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> IV.</head>
+                  <p>If two Parts do deſcend together gradually, then as in the Third Rule: if by Intervals, you muſt move from</p>
+                  <p>A 1 to a 3 or 6</p>
+                  <p>A 3 to a 3 or 5 or 6</p>
+                  <p>A 5 to a 3 or 6</p>
+                  <p>A 6 to a 3 or 6</p>
+               </div>
+               <div n="5" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> V.</head>
+                  <p>If two Parts do move diverſly, as one riſing and the other deſcending: Then thus,</p>
+                  <p>Or thus,</p>
+                  <p>Or upon the Third, your <hi>Baſs</hi> muſt begin in the Key, and end in the ſame Key.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of Taking</hi> Diſcords.</head>
+               <p>
+                  <hi>Diſcords</hi> are either taken by way of Paſs, or Binding.</p>
+               <div n="1" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> I.</head>
+                  <p>
+                     <hi>Diſcords</hi> by way of Paſs are taken thus:</p>
+                  <p>So thus you ſee, a <hi>Diſcord</hi> is placed between two <hi>Concords.</hi>
+                  </p>
+               </div>
+               <div n="2" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> II.</head>
+                  <p>A <hi>Diſcord</hi> is bound three ſeveral wayes; firſt, between the Third, and ſome other <hi>Concord:</hi> As,</p>
+                  <p>The firſt Note of the upper Parts may be any <hi>Cord</hi> to the <hi>Baſs,</hi> the ſecond Note of the upper Part muſt be a Third to the <hi>Baſs,</hi> the third Note muſt be a Second to the <hi>Baſs,</hi> the laſt part of a third Note muſt be a Third to the <hi>Baſs,</hi> and the cloſing or fourth Note muſt be a Third or Eighth to the <hi>Baſs,</hi> as in the Example.</p>
+                  <p>The firſt Note of the <hi>Baſs</hi> muſt be any <hi>Concord</hi> to the upper Part, the firſt part of the ſecond Note of the <hi>Baſs</hi> muſt be a Third to the ſecond Note of the <hi>Treble</hi> or upper Part.</p>
+                  <p>The laſt part of the ſecond Note of the <hi>Baſs</hi> muſt be a Second to the upper Part, the Third Note of the <hi>Baſs</hi> muſt be a Third to the ſecond part of the third Note of the <hi>Treble,</hi> and Cloſe as in the aforeſaid Example.</p>
+                  <p>This Binding is ſeldom taken in a Cloſe in more Parts than Two; but in the middle of a Leſſon it is to be taken as often as you ſhall ſee occaſion. This Binding is ſeldom or never taken in other Notes than in the Example.</p>
+               </div>
+               <div n="3" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> III.</head>
+                  <p>The third way of taking a <hi>Diſcord</hi> by way of Binding is when the Fourth is taken between Second Thirds: As,</p>
+                  <p>So that you ſee the <hi>Diſcords</hi> is thus taken, <hi>viz.</hi> the firſt Note of the upper Part may be any Note to the <hi>Baſs,</hi> the ſecond Note of the upper Part muſt be a Fourth to the <hi>Baſs,</hi> the eight Note of the upper Part muſt be a Third to the <hi>Baſs,</hi> and the Cloſe muſt be an Eighth or a Third, as in the Example.</p>
+                  <p>This Cloſe may be uſed in any part of a Leſſon of two or more Parts, either beginning, middle, or ending; but ſel<g ref="char:EOLhyphen"/>dome it is to be omitted in the ending of a Leſſon: This Cloſe is ſeldom or never taken in longer or ſhorter Notes than in the Example.</p>
+               </div>
+               <div n="4" type="rule">
+                  <head>
+                     <hi>R<g ref="char:V">Ʋ</g>LE</hi> IV.</head>
+                  <p>The fourth way of taking of a <hi>Diſcord</hi> by way of Binding, is when the Seventh is taken between the Sixth and Eighth: As,</p>
+                  <p>The firſt Note of the upper Part may be any <hi>Cord</hi> to the <hi>Baſs,</hi> the firſt part of the ſecond Note of the upper Part muſt be a Sixth to the <hi>Baſs,</hi> the laſt part of the ſecond Note of the upper Part muſt be a Seventh to the <hi>Baſs,</hi> the fourth Note of the upper Part muſt be a Sixth to the <hi>Baſs,</hi> and the Cloſe muſt be an Eighth or a Third to the <hi>Baſs.</hi>
+                  </p>
+                  <p>The <hi>Baſs</hi> muſt deſcend four Notes, the two firſt Notes muſt be but half the quantity of the third Note, and the laſt Note as long or as ſhort as you pleaſe.</p>
+                  <p>This Cloſe is uſed in the middle ſtrain of three or more Parts, and for the final Cloſe many times of two Parts.</p>
+                  <p>To conclude; When you make one or more Parts to a <hi>Baſs,</hi> you may begin your <hi>Baſs</hi> in the Key, and end the <hi>Baſs</hi> in the ſame Key. The middle (if you have more than two) may end in a Third, Fourth, and Fifth, from the Key. End your Leſſons always with the <hi>Diſcord,</hi> according to the ſecond Rule, that is, the Note before the Cloſe muſt be a Fifth, if you fall to the Cloſe, or a Foutth, if you riſe to the Cloſe. Your upper Part muſt begin in the Uniſon, Third, or Fifth, but not in a Sixth.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> William Gilbert <hi>at the</hi> Half-Moon <hi>in St.</hi> Paul<hi>'s</hi>-<hi>Church-Yard,</hi> 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
